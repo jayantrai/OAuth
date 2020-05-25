@@ -1,8 +1,8 @@
 security:
   oauth2:
     client:
-     client-id: 
-     client-secret: 
+     client-id: -insert here-
+     client-secret: -insert here-
      access-token-uri: https://graph.facebook.com/oauth/access_token
      user-authorization-uri: https://www.facebook.com/dialog/oauth
      authentication-scheme: query
